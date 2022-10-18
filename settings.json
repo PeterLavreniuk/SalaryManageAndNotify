@@ -1,0 +1,57 @@
+{
+    "email": {
+        "senderEmail": "",
+        "senderPwd": "",
+        "receiverEmail": "",
+        "smtpAddress": "",
+        "smtpPort": 0
+    },
+    "exchangeRates": {
+        "url": "",
+        "fromKey": "",
+        "toKey": "",
+        "fileMask": ""
+    },
+    "salary": {
+        "firstSalaryDay": "",
+        "firstSalaryPartDollarAmount": 0,
+        "secondSalaryPartDollarAmount": 0,
+        "bufferPercentageFromBalance": 0
+    },
+    "reports": {
+        "previousMonthlyReportDate": "",
+        "previousWeeklyReportDate": ""
+    },
+    "expenses": {
+        "main": [
+            {
+                "caption": "корм коту",
+                "amountRub": 5555,
+                "salaryPart": 2
+            },
+            {
+                "caption": "корм коту",
+                "amountRub": 4444,
+                "salaryPart": 2
+            }
+        ],
+        "monthly": [
+            {
+                "caption": "корм коту",
+                "amountRub": 3333,
+                "salaryPart": 2
+            },
+            {
+                "caption": "корм коту",
+                "amountRub": 2222,
+                "salaryPart": 2
+            }
+        ],
+        "weekly": [
+            {
+                "caption": "корм коту",
+                "amountRub": 1111
+            }
+        ]
+    }
+}
